@@ -1,4 +1,4 @@
-# KeyboardLayoutExtractor
+# Keyboard Layout Extractor
 
 A C# utility for extracting and exporting Windows keyboard layouts to multiple formats, including QMK-compatible header files. This tool helps keyboard firmware developers and enthusiasts to accurately replicate Windows keyboard layouts in their custom keyboard projects.
 
