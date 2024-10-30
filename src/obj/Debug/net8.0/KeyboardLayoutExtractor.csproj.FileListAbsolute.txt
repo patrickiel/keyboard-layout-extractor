@@ -1,0 +1,14 @@
+C:\Users\patri\source\repos\KeyboardLayoutExtractor\bin\Debug\net8.0\KeyboardLayoutExtractor.exe
+C:\Users\patri\source\repos\KeyboardLayoutExtractor\bin\Debug\net8.0\KeyboardLayoutExtractor.deps.json
+C:\Users\patri\source\repos\KeyboardLayoutExtractor\bin\Debug\net8.0\KeyboardLayoutExtractor.runtimeconfig.json
+C:\Users\patri\source\repos\KeyboardLayoutExtractor\bin\Debug\net8.0\KeyboardLayoutExtractor.dll
+C:\Users\patri\source\repos\KeyboardLayoutExtractor\bin\Debug\net8.0\KeyboardLayoutExtractor.pdb
+C:\Users\patri\source\repos\KeyboardLayoutExtractor\obj\Debug\net8.0\KeyboardLayoutExtractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\source\repos\KeyboardLayoutExtractor\obj\Debug\net8.0\KeyboardLayoutExtractor.AssemblyInfoInputs.cache
+C:\Users\patri\source\repos\KeyboardLayoutExtractor\obj\Debug\net8.0\KeyboardLayoutExtractor.AssemblyInfo.cs
+C:\Users\patri\source\repos\KeyboardLayoutExtractor\obj\Debug\net8.0\KeyboardLayoutExtractor.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\KeyboardLayoutExtractor\obj\Debug\net8.0\KeyboardLayoutExtractor.dll
+C:\Users\patri\source\repos\KeyboardLayoutExtractor\obj\Debug\net8.0\refint\KeyboardLayoutExtractor.dll
+C:\Users\patri\source\repos\KeyboardLayoutExtractor\obj\Debug\net8.0\KeyboardLayoutExtractor.pdb
+C:\Users\patri\source\repos\KeyboardLayoutExtractor\obj\Debug\net8.0\KeyboardLayoutExtractor.genruntimeconfig.cache
+C:\Users\patri\source\repos\KeyboardLayoutExtractor\obj\Debug\net8.0\ref\KeyboardLayoutExtractor.dll

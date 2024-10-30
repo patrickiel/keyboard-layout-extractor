@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyboardLayoutExtractor", "KeyboardLayoutExtractor.csproj", "{7C71C4D3-0334-4C49-8505-A23A1F0546E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C71C4D3-0334-4C49-8505-A23A1F0546E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C71C4D3-0334-4C49-8505-A23A1F0546E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C71C4D3-0334-4C49-8505-A23A1F0546E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C71C4D3-0334-4C49-8505-A23A1F0546E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB7CA9C5-BF8F-4AA0-8FA1-BB25719F0E1A}
+	EndGlobalSection
+EndGlobal
